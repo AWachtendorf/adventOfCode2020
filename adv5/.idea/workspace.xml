@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc97b586-24ed-49f4-8342-f46c33574882" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../adv5/main.go" afterDir="false" />
+    <list default="true" id="8e9132a2-e405-4527-a374-60e2ee1a7264" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adv2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../adv2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../adv3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../adv3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../adv4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../adv4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../adv4/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../adv4/main.go" afterDir="false" />
@@ -30,22 +31,32 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1l72kgZrpLELM9N0aovUmzMgrLS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1lEglmVTFhy7l6tgzo7mFQMEBlX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../adv4" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,7 +66,7 @@
   </component>
   <component name="RunManager">
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="adv2" />
+      <module name="adv5" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/main.go" />
@@ -82,24 +93,27 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1404" height="279" key="GridCell.Tab.0.bottom" timestamp="1607024971726">
+    <state x="1188" y="275" key="FileChooserDialogImpl" timestamp="1607168050435">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1404" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607024971726" />
-    <state width="1404" height="279" key="GridCell.Tab.0.center" timestamp="1607024971726">
+    <state x="1188" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607168050435" />
+    <state width="963" height="280" key="GridCell.Tab.0.bottom" timestamp="1607180758062">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1404" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607024971726" />
-    <state width="1404" height="279" key="GridCell.Tab.0.left" timestamp="1607024971726">
+    <state width="963" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607180758062" />
+    <state width="963" height="280" key="GridCell.Tab.0.center" timestamp="1607180758058">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1404" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607024971726" />
-    <state width="1404" height="279" key="GridCell.Tab.0.right" timestamp="1607024971726">
+    <state width="963" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607180758058" />
+    <state width="963" height="280" key="GridCell.Tab.0.left" timestamp="1607180758058">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1404" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607024971726" />
+    <state width="963" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607180758058" />
+    <state width="963" height="280" key="GridCell.Tab.0.right" timestamp="1607180758058">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="963" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607180758058" />
   </component>
 </project>

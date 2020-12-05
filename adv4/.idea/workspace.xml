@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf04a74f-464a-433b-85ae-0ded88a76adc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../adv1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../adv1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adv2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../adv2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adv5/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../adv3" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -84,11 +85,12 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1006" y="401" key="FileChooserDialogImpl" timestamp="1607086063213">
-      <screen x="-1440" y="174" width="1440" height="860" />
+    <state x="579" y="275" key="FileChooserDialogImpl" timestamp="1607168114235">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1006" y="401" key="FileChooserDialogImpl/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" timestamp="1607086063213" />
     <state x="578" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" timestamp="1607078196930" />
+    <state x="579" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607168114235" />
     <state width="1877" height="356" key="GridCell.Tab.0.bottom" timestamp="1607111576483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

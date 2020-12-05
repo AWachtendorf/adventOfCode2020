@@ -186,9 +186,9 @@ func checkHgt(tocheck string) bool {
 }
 
 func checkHcl(tocheck string) bool {
-	const alpha = "ghijklmnopqrstuvwxyz"
+	const invalid = "ghijklmnopqrstuvwxyz"
 
-	if strings.Contains(tocheck, "#") && !strings.Contains(tocheck, alpha) && len(tocheck) == 7 {
+	if strings.Contains(tocheck, "#") && !strings.Contains(tocheck, invalid) && len(tocheck) == 7 {
 		println(fmt.Sprintf("\n%s is valid", tocheck))
 		return true
 	} else {
