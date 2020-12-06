@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc97b586-24ed-49f4-8342-f46c33574882" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../adv5/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adv3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../adv3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../adv4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../adv4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adv4/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../adv4/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../adv5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../adv5/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../adv6" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -85,6 +84,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="936" y="275" key="FileChooserDialogImpl" timestamp="1607255750170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="936" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607255750170" />
     <state width="1404" height="279" key="GridCell.Tab.0.bottom" timestamp="1607024971726">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
