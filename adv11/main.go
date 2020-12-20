@@ -1,4 +1,4 @@
-package main
+package adv11
 
 import (
 	"strings"

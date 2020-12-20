@@ -1,4 +1,4 @@
-package main
+package adv6
 
 import (
 	"fmt"

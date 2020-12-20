@@ -1,4 +1,4 @@
-package Puzzle1
+package adv9
 
 import (
 	"strconv"
