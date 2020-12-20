@@ -63,7 +63,7 @@ func (v *dataRepository) readAllData() {
 }
 
 //checkPwdPolicyTask1 counts the valid letters in the password
-func (v *dataRepository) checkPwdPolicyTask1(min, max int, checkLetter, pw string) bool {
+func (v *dataRepository) CheckPwdPolicyTask1(min, max int, checkLetter, pw string) bool {
 	validLetters := strings.Count(pw, checkLetter)
 	if validLetters >= min && validLetters <= max {
 		return true
@@ -76,7 +76,7 @@ func (v *dataRepository) checkPwdPolicyTask1(min, max int, checkLetter, pw strin
 func (v *dataRepository) processCheckTask1() {
 	checkSum := 0
 	for _, j := range v.allData {
-		check := v.checkPwdPolicyTask1(j.min, j.max, j.checkLetter, j.pwd)
+		check := v.CheckPwdPolicyTask1(j.min, j.max, j.checkLetter, j.pwd)
 		if check {
 			checkSum++
 		}
@@ -85,7 +85,7 @@ func (v *dataRepository) processCheckTask1() {
 }
 
 //checkPwdPolicyTask2 checks for all three cases that are described in the puzzle
-func (v *dataRepository) checkPwdPolicyTask2(min, max int, checkLetter, pw string) bool {
+func (v *dataRepository) CheckPwdPolicyTask2(min, max int, checkLetter, pw string) bool {
 	checkBool := false
 	if checkLetter == string([]rune(pw)[min-1]) && checkLetter != string([]rune(pw)[max-1]) {
 		checkBool = true
@@ -103,7 +103,7 @@ func (v *dataRepository) checkPwdPolicyTask2(min, max int, checkLetter, pw strin
 func (v *dataRepository) processCheckTask2() {
 	checkSum := 0
 	for _, j := range v.allData {
-		check := v.checkPwdPolicyTask2(j.min, j.max, j.checkLetter, j.pwd)
+		check := v.CheckPwdPolicyTask2(j.min, j.max, j.checkLetter, j.pwd)
 		if check {
 			checkSum++
 		}
