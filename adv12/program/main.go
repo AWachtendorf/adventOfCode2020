@@ -1,17 +1,16 @@
-package main
+package adv12
 
 import (
-	. "github.com/adventOfCode2020/puzzleInput"
-	. "./solve"
+	""
 	"fmt"
 )
 
 func main() {
-	cc := &CommandsList{}
+	cc := &sv.CommandsList{}
 
-	cc.PrepareInput(Test)
-	s := &Ship{}
-	w := &Waypoint{
+	cc.PrepareInput(pz.Test)
+	s := &sv.Ship{}
+	w := &sv.Waypoint{
 		North:  1,
 		East:   10,
 		South:  0,
