@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34997c01-1181-4245-a081-815984bdd7ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/adv12" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../adv1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../adv1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/program/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzleInput/puzzleinput.go" beforeDir="false" afterPath="$PROJECT_DIR$/program/puzzleInput/puzzleinput.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solve/puzzle1.go" beforeDir="false" afterPath="$PROJECT_DIR$/program/solve/puzzle1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solve/puzzle2.go" beforeDir="false" afterPath="$PROJECT_DIR$/program/solve/puzzle2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/program/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/program/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +66,20 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Git\github.com\adventOfCode2020\adv12\program" />
       <recent name="D:\Git\github.com\adventOfCode2020\adv12\solve" />
       <recent name="D:\Git\github.com\adventOfCode2020\adv12\puzzleInput" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="adv12" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/program/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="adv12" />
       <working_directory value="$PROJECT_DIR$" />
@@ -85,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go (1)" />
         <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
